@@ -26,6 +26,6 @@ favori listelerini yönetebilirler.
 Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 1. Bu depoyu klonlayın:
-- **cd e-commerce
-- **npm install
-- **npm run dev
+- cd e-commerce
+- npm install
+- npm run dev
